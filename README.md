@@ -28,3 +28,6 @@ The numbers to words convert is a python program that receives a number and retu
 - Opportunities for expansion: The program design provides room for expanding its scope to higher hierarchies of counting such as Quintillions, Sextillions, Septillions, Octillions, Nonillions, Decillions, etc.
 
 ## Getting started
+- Once the program is uploaded on PY-PI and the global python community will be able to access it by running the command "from numbers_to_words import DigitsToWords". 
+- The module "numbers_to_words" will have a Class "DigitsToWords" from which every user can instatiate an object and pass an attribute as the number they want to convert.
+- With a user-defined object instantiated, the "DigitsToWords" class has a method "numbers_to_words" which the user can 
